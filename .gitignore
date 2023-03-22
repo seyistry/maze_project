@@ -1,0 +1,14 @@
+# Mac files
+.DS_Store
+
+# Vim
+*.swp
+
+# CC
+a.out
+*.o
+*.s
+*.gch
+
+.vscode
+.maze_app
